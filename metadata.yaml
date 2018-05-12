@@ -1,0 +1,40 @@
+_repo: Hilaire-BellocThe-Man-and-His-Work_27585
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    - Chesterton, Gilbert Keith
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Mandell, C. Creighton
+    gutenberg_agent_id: '32784'
+    url: http://www.gutenberg.org/2009/agents/32784
+  - agent_name: Shanks, Edward
+    birthdate: 1892
+    deathdate: 1953
+    gutenberg_agent_id: '32785'
+    url: http://www.gutenberg.org/2009/agents/32785
+description: ''
+gutenberg_issued: '2008-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27585'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Belloc, Hilaire, 1870-1953 -- Criticism and interpretation'
+title: Hilaire Belloc, the Man and His Work
+url: http://www.gutenberg.org/ebooks/27585
